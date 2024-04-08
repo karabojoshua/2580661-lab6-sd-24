@@ -1,0 +1,26 @@
+{
+  "name": "2580661-lab6-sd-24",
+  "version": "1.0.0",
+  "description": "Lab 6 SD 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karabojoshua/2580661-lab6-sd-24.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karabojoshua/2580661-lab6-sd-24/issues"
+  },
+  "homepage": "https://github.com/karabojoshua/2580661-lab6-sd-24#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@azure/static-web-apps-cli": "^1.1.7"
+  }
+}
